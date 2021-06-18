@@ -1,0 +1,20 @@
+[
+    {
+        "Name": "safi",
+        "Email": "safirhamatullah@gmail.com",
+        "Password": "12345678",
+        "Comment": "asd",
+        "Gender": "Male",
+        "Hobby": ",Singing",
+        "File_Path": "files\/Screenshot (96).png"
+    },
+    {
+        "Name": "safirhamatulla",
+        "Email": "safirhamatullah@gmail.com",
+        "Password": "87654321",
+        "Comment": "bsd",
+        "Gender": "Male",
+        "Hobby": "Dancing",
+        "File_Path": "files\/Screenshot (24).png"
+    }
+]
